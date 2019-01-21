@@ -1,4 +1,4 @@
-# ProxyTvIP_ListChanal
+# IPTV_ListChanal
 
 Парсер указанных в файле тв каналов в плейлист с сайта http://proxytv.ru/.
 
